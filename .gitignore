@@ -1,0 +1,7 @@
+.DS_S*
+__pycache__/
+*.pyc.*
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+.env
+*.secrets
